@@ -1,6 +1,6 @@
 # Physical-based Rendering for NIR-VIS Face Recognition
 
-by [Yunqi Miao*](https://yoqim.github.io/yunqi.github.io/), [Alexandros Lattas*](https://alexlattas.com/), [Jiankang Deng](https://jiankangdeng.github.io/), [Jungong Han](https://jungonghan.github.io/), and [Stefanos Zafeiriou]().
+by [Yunqi Miao*](https://yoqim.github.io/), [Alexandros Lattas*](https://alexlattas.com/), [Jiankang Deng](https://jiankangdeng.github.io/), [Jungong Han](https://jungonghan.github.io/), and [Stefanos Zafeiriou]().
 
 
 For more information, please check our
